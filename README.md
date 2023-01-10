@@ -1,1 +1,2 @@
-<h1> Grand Hotel Project - Based on FlexBox </h1>
+<h1> Grand Hotel Project</h1>
+<p> Based on FlexBox </p>
