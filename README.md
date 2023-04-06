@@ -3,7 +3,7 @@
 <h1> 📚 Grand Hotel - Flex Box  </h1>
 
 <p align="justify">
-Um projeto Grand Hotel feito em FlexBox seria um layout de página web altamente responsivo, que utiliza a tecnologia FlexBox para criar uma estrutura de grade flexível e adaptável.
+Um projeto Grand Hotel feito em FlexBox é um layout de página web altamente responsivo, que utiliza a tecnologia FlexBox para criar uma estrutura de grade flexível e adaptável.
 </p>
 <p align="justify">
 Com o FlexBox, é possível criar um design elegante e moderno para o website do Grand Hotel, que pode se adaptar automaticamente a diferentes tamanhos de tela e dispositivos. Isso significa que os visitantes do site poderão acessá-lo em seus celulares, tablets e desktops, sem comprometer a qualidade ou funcionalidade da página.
